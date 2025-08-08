@@ -44,6 +44,6 @@ Estudo e implementação de operações com MongoDB usando Node.js e Mongoose.
     node main.js
     ```
 
-## Funcionalidades implementadas
+## Funcionalidade implementada
 
 - **Create**: Inserção de novos clientes no banco de dados.
